@@ -13,6 +13,7 @@ Slowly Changing Dimensions(SCD) - dimensions that change over time, rather than 
 
 ### Concept to know before proceeding furthur
 - [Surrogate Key](https://www.geeksforgeeks.org/surrogate-key-in-dbms/)
+- [Natural Key](https://en.wikipedia.org/wiki/Natural_key)
 
 
 ### Type 0 (_retain original_)
